@@ -126,7 +126,7 @@ export const Window: React.FC<WindowProps> = ({ id, children }) => {
     if (isMobile) {
       return {
         width: '100vw',
-        height: '100%',
+        height: 'calc(100% - 6rem)',
         top: 0,
         left: 0,
       };
