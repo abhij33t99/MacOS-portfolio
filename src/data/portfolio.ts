@@ -59,8 +59,8 @@ export const portfolioData: PortfolioData = {
   location: "India",
   welcomeMessages: [
     "Hello!",
-    "I am Abhijeet Karmakar",
-    "A Software Engineer with 3+ years of experience",
+    "I am Abhijeet Karmakar.",
+    "A Software Engineer with 3+ years of experience.",
     "Welcome to my Portfolio!"
   ],
   socials: [
